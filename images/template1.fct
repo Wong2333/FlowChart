@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bound height="5000" width="5000" path="C:/Users/wjm/Desktop/模板1.fct">
+ <text textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-20.666666666666657" textColor="4278190080" y="317.99999999999994" textItalic="0" textBold="0" text="yes"/>
+ <text textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="132" textColor="4278190080" y="201.33333333333331" textItalic="0" textBold="0" text="no"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-33.333333333333336" color="4294967295" textColor="4278190080" id="0" y="421.33333333333326" textItalic="0" type="65558" textBold="0" text="结束"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="330.66666666666669" color="4294967295" textColor="4278190080" id="1" y="82.666666666666686" textItalic="0" type="65558" textBold="0" text="步骤三"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-34.666666666666657" color="4294967295" textColor="4278190080" id="2" y="258.66666666666663" textItalic="0" type="65557" textBold="0" text="yes or no"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-34.666666666666664" color="4294967295" textColor="4278190080" id="3" y="92" textItalic="0" type="65558" textBold="0" text="步骤二"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-34.666666666666664" color="4294967295" textColor="4278190080" id="4" y="-86.666666666666657" textItalic="0" type="65558" textBold="0" text="步骤一"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-37.333333333333329" color="4294967295" textColor="4278190080" id="5" y="-255.33333333333331" textItalic="0" type="65559" textBold="0" text="开始"/>
+ <arrow startItem="1" endItem="4" color="4278190080" startp="7" endp="6">
+  <pathp x="330.66666666666663" y="-84"/>
+ </arrow>
+ <arrow startItem="2" endItem="1" color="4278190080" startp="2" endp="5">
+  <pathp x="328" y="262.66666666666669"/>
+ </arrow>
+ <arrow startItem="2" endItem="0" color="4278190080" startp="1" endp="7"/>
+ <arrow startItem="3" endItem="2" color="4278190080" startp="5" endp="3"/>
+ <arrow startItem="4" endItem="3" color="4278190080" startp="5" endp="7"/>
+ <arrow startItem="5" endItem="4" color="4278190080" startp="6" endp="7"/>
+</bound>

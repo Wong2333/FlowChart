@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bound path="C:/Users/wjm/Desktop/模板3.fct" width="5000" height="5000">
+ <item type="65561" textFamily="Microsoft YaHei UI" text="请输入" textColor="4278190080" textSize="9" y="357.33333333333337" textBold="0" textUnderline="0" textItalic="0" color="4294967295" x="-209.33333333333331" id="0"/>
+ <item type="65557" textFamily="Microsoft YaHei UI" text="请输入" textColor="4278190080" textSize="9" y="170.66666666666671" textBold="0" textUnderline="0" textItalic="0" color="4294967295" x="89.333333333333343" id="1"/>
+ <item type="65558" textFamily="Microsoft YaHei UI" text="请输入" textColor="4278190080" textSize="9" y="173.33333333333334" textBold="0" textUnderline="0" textItalic="0" color="4294967295" x="-207.99999999999997" id="2"/>
+ <item type="65558" textFamily="Microsoft YaHei UI" text="请输入" textColor="4278190080" textSize="9" y="-45.333333333333321" textBold="0" textUnderline="0" textItalic="0" color="4294967295" x="90.666666666666629" id="3"/>
+ <item type="65557" textFamily="Microsoft YaHei UI" text="请输入" textColor="4278190080" textSize="9" y="-214.33333333333331" textBold="0" textUnderline="0" textItalic="0" color="4294967295" x="-205.99999999999994" id="4"/>
+ <item type="65559" textFamily="Microsoft YaHei UI" text="请输入" textColor="4278190080" textSize="9" y="-390.33333333333331" textBold="0" textUnderline="0" textItalic="0" color="4294967295" x="-203.99999999999994" id="5"/>
+ <item type="65558" textFamily="Microsoft YaHei UI" text="请输入" textColor="4278190080" textSize="9" y="-41.999999999999993" textBold="0" textUnderline="0" textItalic="0" color="4294967295" x="-207.66666666666669" id="6"/>
+ <arrow startp="5" startItem="2" endItem="0" color="4278190080" endp="0"/>
+ <arrow startp="1" startItem="1" endItem="0" color="4278190080" endp="1">
+  <pathp y="355.99999999999994" x="94.666666666666657"/>
+ </arrow>
+ <arrow startp="0" startItem="1" endItem="2" color="4278190080" endp="6"/>
+ <arrow startp="5" startItem="3" endItem="1" color="4278190080" endp="3"/>
+ <arrow startp="5" startItem="6" endItem="2" color="4278190080" endp="7"/>
+ <arrow startp="2" startItem="4" endItem="3" color="4278190080" endp="7">
+  <pathp y="-214.66666666666663" x="88"/>
+ </arrow>
+ <arrow startp="1" startItem="4" endItem="6" color="4278190080" endp="7"/>
+ <arrow startp="6" startItem="5" endItem="4" color="4278190080" endp="3"/>
+</bound>

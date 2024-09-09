@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bound height="5000" width="5000" path="C:/Users/wjm/Desktop/模板2.fct">
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="550.66666666666652" color="4294967295" textColor="4278190080" id="0" y="134.66666666666663" textItalic="0" type="65558" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="261.33333333333331" color="4294967295" textColor="4278190080" id="1" y="131.99999999999997" textItalic="0" type="65557" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="260.00000000000011" color="4294967295" textColor="4278190080" id="2" y="374.66666666666669" textItalic="0" type="65561" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="261.33333333333331" color="4294967295" textColor="4278190080" id="3" y="-32.000000000000007" textItalic="0" type="65558" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="262.66666666666663" color="4294967295" textColor="4278190080" id="4" y="-238.66666666666669" textItalic="0" type="65563" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-437.3333333333332" color="4294967295" textColor="4278190080" id="5" y="386.66666666666669" textItalic="0" type="65562" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-173.33333333333334" color="4294967295" textColor="4278190080" id="6" y="158.66666666666663" textItalic="0" type="65558" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-436" color="4294967295" textColor="4278190080" id="7" y="156" textItalic="0" type="65557" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-437.33333333333337" color="4294967295" textColor="4278190080" id="8" y="-225.33333333333331" textItalic="0" type="65559" textBold="0" text="请输入"/>
+ <item textSize="14" textFamily="Microsoft YaHei UI" textUnderline="0" x="-435.99999999999994" color="4294967295" textColor="4278190080" id="9" y="-62.666666666666657" textItalic="0" type="65558" textBold="0" text="请输入"/>
+ <arrow startItem="0" endItem="2" color="4278190080" startp="5" endp="1">
+  <pathp x="552" y="377.33333333333331"/>
+ </arrow>
+ <arrow startItem="1" endItem="0" color="4278190080" startp="2" endp="4"/>
+ <arrow startItem="1" endItem="2" color="4278190080" startp="1" endp="0"/>
+ <arrow startItem="3" endItem="1" color="4278190080" startp="5" endp="3"/>
+ <arrow startItem="4" endItem="3" color="4278190080" startp="1" endp="7"/>
+ <arrow startItem="6" endItem="9" color="4278190080" startp="7" endp="6">
+  <pathp x="-172" y="-61.333333333333321"/>
+ </arrow>
+ <arrow startItem="7" endItem="6" color="4278190080" startp="2" endp="4"/>
+ <arrow startItem="7" endItem="5" color="4278190080" startp="1" endp="0"/>
+ <arrow startItem="9" endItem="7" color="4278190080" startp="5" endp="3"/>
+ <arrow startItem="8" endItem="9" color="4278190080" startp="6" endp="7"/>
+</bound>
